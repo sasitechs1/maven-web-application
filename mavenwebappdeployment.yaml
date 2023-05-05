@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: mavenwebappcontainer
-          image: sasi0328/maven-web-app:TAG
+          image: sasi0328/mavenwebappone:TAG
           ports:
             - containerPort: 8080
 ---
